@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/claim",
+      "dest": "/api/claim.js"
+    },
+    {
+      "src": "/api/userdata",
+      "dest": "/api/userdata.js"
+    }
+  ]
+}
